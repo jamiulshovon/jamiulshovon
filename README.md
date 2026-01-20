@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student.<br>I am proficient in C, C++, and Java.<br>I am currently learning Python.<br>I have solved 40 problems on LeetCode.<br>I have some projects on GitHub.
+I am a computer science student.<br>I am proficient in C, C++.<br>I am currently learning PHP.<br>I have solved 40 problems on LeetCode.<br>I have some projects on GitHub.
 
 
 ## 🌐 Socials:
